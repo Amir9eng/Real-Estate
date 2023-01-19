@@ -37,7 +37,7 @@ const Property = ({
           height={260}
         />
       </Box>
-      <Box w='full'>   
+      <Box w='full'>
         <Flex paddingTop='2' alignItems='center' justifyContent='space-between'>
           <Flex alignItems='center'>
             <Box paddingRight='3' color='green.300'>
